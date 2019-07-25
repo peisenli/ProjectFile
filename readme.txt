@@ -1,1 +1,1 @@
-NetWork Embedding！
+NetWork Embedding Code&Paper
